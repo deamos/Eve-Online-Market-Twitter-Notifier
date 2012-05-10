@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- Automatically generated data from EVE-Central.com -->
+<!-- This is the new API :-) -->
+
+
+
+<evec_api version="2.0" method="marketstat_xml">
+<marketstat>
+
+
+
+<type id="38">
+
+  <all>
+    <volume>374150717.00</volume>
+<avg>1214.97</avg>
+<max>4000.00</max>
+<min>250.02</min>
+<stddev>479.90</stddev>
+<median>1096.50</median>
+<percentile>0.00</percentile>
+
+  </all>
+  <buy>
+    <volume>73997674.00</volume>
+<avg>752.26</avg>
+<max>958.98</max>
+<min>250.02</min>
+<stddev>201.58</stddev>
+<median>874.45</median>
+<percentile>930.20</percentile>
+
+  </buy>
+  <sell>
+    <volume>299153043.00</volume>
+<avg>1408.01</avg>
+<max>4000.00</max>
+<min>999.97</min>
+<stddev>461.34</stddev>
+<median>1250.44</median>
+<percentile>1017.53</percentile>
+
+  </sell>
+</type>
+
+
+</marketstat>
+</evec_api>
